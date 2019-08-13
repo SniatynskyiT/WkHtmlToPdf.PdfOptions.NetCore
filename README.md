@@ -1,0 +1,1 @@
+# WkHtmlToPdf.PdfOptions.NetCore
